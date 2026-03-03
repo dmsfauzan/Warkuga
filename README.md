@@ -2,8 +2,6 @@
 
 ## Project info
 
-**URL**: https://bisa-web-psi.vercel.app/
-
 ## How can I edit this code?
 
 **Use your preferred IDE**
